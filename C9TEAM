@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>C9 TEAM OFFICIAL STORE</title>
+    <style>
+        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background-color: #050505; color: #ffffff; text-align: center; margin: 0; }
+        .hero { background: linear-gradient(45deg, #1a1a1a, #00d2ff); padding: 60px 20px; border-bottom: 4px solid #00d2ff; }
+        h1 { font-size: 2.5em; letter-spacing: 2px; text-transform: uppercase; margin: 0; }
+        .pricing-section { padding: 30px 15px; }
+        .card { background: #111; border: 2px solid #00d2ff; border-radius: 20px; padding: 25px; margin: 15px auto; max-width: 500px; box-shadow: 0 0 20px rgba(0, 210, 255, 0.3); }
+        .price-item { display: flex; justify-content: space-between; padding: 10px 0; border-bottom: 1px solid #333; font-size: 1.2em; }
+        .vip-badge { color: #ffd700; font-weight: bold; font-size: 1.3em; margin: 15px 0; display: block; }
+        .btn-buy { display: block; background: #25d366; color: white; padding: 20px; border-radius: 50px; text-decoration: none; font-size: 1.5em; font-weight: bold; margin-top: 30px; box-shadow: 0 5px 15px rgba(37, 211, 102, 0.4); transition: 0.3s; }
+        .btn-buy:hover { transform: translateY(-5px); background: #1eb954; }
+        .services { text-align: left; padding: 10px; font-size: 0.9em; color: #aaa; }
+    </style>
+</head>
+<body>
+
+    <div class="hero">
+        <h1>𝗖9 𝗧𝗘𝗔𝗠 𝗦𝗧𝗢𝗥𝗘</h1>
+        <p>Official Yalla Ludo Diamond Provider</p>
+    </div>
+
+    <div class="pricing-section">
+        <div class="card">
+            <h2>💎 DIAMOND PACKS</h2>
+            <div class="price-item"><span>2k Diamonds</span> <span>➡️ 5k 💎</span></div>
+            <div class="price-item"><span>4k Diamonds</span> <span>➡️ 7k 💎</span></div>
+            <div class="price-item"><span>10k Diamonds</span> <span>➡️ 32k 💎</span></div>
+            <div class="price-item"><span>20k Diamonds</span> <span>➡️ 53k 💎</span></div>
+            
+            <span class="vip-badge">👑 VIP: KNIGHT & BARON AVAILABLE</span>
+            
+            <div class="services">
+                <p>✅ A to Z Secure Delivery</p>
+                <p>✅ Anti-Ban Guarantee</p>
+                <p>✅ Instant Top-up via Player ID</p>
+            </div>
+        </div>
+
+        <a href="https://wa.me/923428106029?text=Hello%20C9%20Team,%20I%20want%20to%20buy%20Diamonds" class="btn-buy">
+            ORDER VIA WHATSAPP
+        </a>
+    </div>
+
+    <footer style="padding: 20px; font-size: 0.8em;">
+        © 2026 C9 TEAM | Managed by Professor Rehan
+    </footer>
+
+</body>
+</html>
